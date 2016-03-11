@@ -13,13 +13,29 @@
 					<key>url</key>
 					<string>http://14.215.129.236:8080/x5/UI2/test/jjy.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://14.215.129.236:8080/x5/UI2/test/jjy.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://14.215.129.236:8080/x5/UI2/test/jjy.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.jiajiayue.assetrepair</string>
 				<key>bundle-version</key>
-				<string>1.0.3</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
