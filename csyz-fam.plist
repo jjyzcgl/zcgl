@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://weixiu.jiajiayue.com.cn:8080/x5/$vd8378fb7438442678d7a91277396defb$lzh_CN$sdesktop$d/UI2/app/ios/JJY移动管理平台.ipa</string>
+					<string>http://csyz.ys100.com/x5/UI2/v_10be565d2d7e4672bb4a45fba28dd5f7l_zh_CNs_d_m/portal_X/APP/ios_fam_app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://weixiu.jiajiayue.com.cn:8080/x5/UI2/app/icon/jjy_logo.png</string>
+					<string>http://csyz.ys100.com/x5/UI2/v_0a4f044d11f44a7da5bc043ef615a4fel_zh_CNs_d_m/portal_X/APP/ios_fam.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://weixiu.jiajiayue.com.cn:8080/x5/UI2/app/icon/jjy_logo.png</string>
+					<string>http://csyz.ys100.com/x5/UI2/v_0a4f044d11f44a7da5bc043ef615a4fel_zh_CNs_d_m/portal_X/APP/ios_fam.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jiajiayue.assetrepair</string>
+				<string>com.ys1000.csyizhong</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>jjyzcgl ios-app download</string>
+				<string>download ios-app jxt</string>
 			</dict>
 		</dict>
 	</array>
