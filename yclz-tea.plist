@@ -1,1 +1,48 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://yclz.ys100.com/x5/UI2/v_10be565d2d7e4672bb4a45fba28dd5f7l_zh_CNs_d_m/portal_X/APP/ios_tea_app.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://yclz.ys100.com/x5/UI2/v_0a4f044d11f44a7da5bc043ef615a4fel_zh_CNs_d_m/portal_X/APP/ios_tea.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://yclz.ys100.com/x5/UI2/v_0a4f044d11f44a7da5bc043ef615a4fel_zh_CNs_d_m/portal_X/APP/ios_tea.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.ys100.yclz</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>download ios-app</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
